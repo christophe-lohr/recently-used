@@ -16,10 +16,10 @@ Here, we rearrange this xml file with [xmlstarlet](https://xmlstar.sourceforge.n
   `-h`
 : Display a short help message and exit
 
-  `*file* ...`
+  `file ...`
 : Update or add file(s) in the list of Recently Used Files
 
-  `no args`
+  `` no args
 : Display the list of Recently Used Files
 
 
