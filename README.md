@@ -39,4 +39,5 @@ Nor is it a question of launching a debate on a certain number of issues
 - why do so many desktop applications mismanage the list of recently used files (extract n entries at the tail of the list regardless of dates, and then reorganize this extract to obtain more recent entries)
 - why do so many desktop applications ignore the plain old standard concept of Current Working Directory (man getcwd)...
 - etc.
+
 No debate here... no
